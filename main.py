@@ -10,10 +10,10 @@ print(age)
 
 
 your_age = input("Your Age: ")
-Your_Age = "36"
+Your_Age = " "
 My_Age = input("My Age: ")
-my_age = "35"
-sum = int(your_age) - int(My_Age)
+my_age = " "
+sum = int(your_age) - int(my_Age)
 print(sum)
 
 
